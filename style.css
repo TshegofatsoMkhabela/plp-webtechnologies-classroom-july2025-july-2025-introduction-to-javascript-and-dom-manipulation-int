@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f9;
+}
+
+h1 {
+  color: #333;
+}
+
+.dark-mode {
+  background-color: #222;
+  color: #f9f9f9;
+}
+.dark-mode h1 {
+  color: #f9f9f9;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
